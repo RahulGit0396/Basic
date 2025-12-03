@@ -1,0 +1,15 @@
+D:\RAHUL KUMAR\Git\Projects\Basic\bin\Debug\net8.0\Basic.exe
+D:\RAHUL KUMAR\Git\Projects\Basic\bin\Debug\net8.0\Basic.deps.json
+D:\RAHUL KUMAR\Git\Projects\Basic\bin\Debug\net8.0\Basic.runtimeconfig.json
+D:\RAHUL KUMAR\Git\Projects\Basic\bin\Debug\net8.0\Basic.dll
+D:\RAHUL KUMAR\Git\Projects\Basic\bin\Debug\net8.0\Basic.pdb
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\Basic.AssemblyInfoInputs.cache
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\Basic.AssemblyInfo.cs
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\Basic.csproj.CoreCompileInputs.cache
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\Basic.sourcelink.json
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\Basic.dll
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\refint\Basic.dll
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\Basic.pdb
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\Basic.genruntimeconfig.cache
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net8.0\ref\Basic.dll

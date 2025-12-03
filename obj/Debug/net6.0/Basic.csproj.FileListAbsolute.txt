@@ -1,0 +1,5 @@
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net6.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net6.0\Basic.AssemblyInfoInputs.cache
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net6.0\Basic.AssemblyInfo.cs
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net6.0\Basic.csproj.CoreCompileInputs.cache
+D:\RAHUL KUMAR\Git\Projects\Basic\obj\Debug\net6.0\Basic.sourcelink.json
